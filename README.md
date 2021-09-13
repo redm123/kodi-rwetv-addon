@@ -8,3 +8,7 @@ Kodi Add-on to access RWE.tv video portal. Requires an account and stream ticket
 
 This Add-on is not connected to RWE.tv in any way. Add-on is provided as-is. No warranty, use at own risk.
 
+
+
+![Screenshot](/screenshot002.png)
+
